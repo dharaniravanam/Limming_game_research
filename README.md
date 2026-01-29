@@ -1,2 +1,65 @@
-##Game Desceription##
-This game is similar to the classic puzzle computer game Lemmings. In Lemmings, the player must assign certain lemmings specific skills. If a lemming is not assigned a specific skill, they will walk in one direction ignoring any other lemming in its way, falling off any edges, and turning around if they hit an obstacle. By assigning specific skills to lemmings, they will aid in the passage of the other lemmings across the level. For example, a lemming can be told to dig, which might open up a new passage way around an obstacle. The goal is for the player to guide a certain percentage of the lemmings from the entrance to the exit by clearing or creating a safe passage through the landscape.
+# Disaster Recovery Game
+*A Serious Game for Learning Object-Oriented Design Patterns*
+
+🔗 **Play the game:** https://dharaniravanam.github.io/Limming_game_research/
+
+---
+
+## 📌 About
+Disaster Recovery Game is a **puzzle-based educational game** inspired by *Lemmings*.  
+It teaches **Object-Oriented Design Patterns** through interactive gameplay rather than traditional coding.
+
+Players guide lemmings across dangerous terrain by assigning them **roles** that represent how software objects communicate and collaborate.
+
+---
+
+## 🎮 How It Works
+Lemmings automatically move toward the exit.  
+The player places **helper lemmings** that control, guide, or modify how others behave.
+
+Each helper represents a **software design pattern** used in real-world systems.
+
+---
+
+## 🧠 Design Patterns in the Game
+- **Adapter** – Translates messages between lemmings  
+- **Mediator** – Controls traffic and prevents collisions  
+- **Observer** – Watches signals and reacts to changes  
+- **Visitor** – Applies tools without changing lemming logic  
+- **Iterator** – Repeats actions across multiple objects  
+
+---
+
+## 🛠 Game Tools
+- 🪵 Plank – Cross gaps  
+- ⛏ Pick – Break rocks  
+- 🧹 Shovel – Dig paths  
+- 🪓 Axe – Cut trees  
+
+---
+
+## 🎯 Objective
+Help all lemmings safely reach the exit by making **correct design decisions**.  
+Poor decisions result in failure — just like bad software architecture.
+
+---
+
+## 🧪 Built With
+- **GameMaker Studio 2**
+- **GameMaker Language (GML)**
+- **HTML5 (Web Build)**
+- **Windows (Desktop Build)**
+
+---
+
+## 📄 Research
+Based on the academic paper:  
+**“Introducing Object Oriented Design Patterns through a Puzzle-Based Serious Computer Game”**  
+by Rusu, Rusu, Chieng & **Dharani Ravanam**
+
+---
+
+## 👩‍💻 Author
+**Dharani Ravanam**  
+MS in Computer Science  
+University of New Haven
